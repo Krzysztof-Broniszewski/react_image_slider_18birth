@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/react_image_slider_18birth/static/css/main.f855e6bc.css",
+    "main.css": "/github.io/react_image_slider_18birth/static/css/main.095971de.css",
     "main.js": "/github.io/react_image_slider_18birth/static/js/main.8ddae23e.js",
     "static/js/453.c7f965db.chunk.js": "/github.io/react_image_slider_18birth/static/js/453.c7f965db.chunk.js",
     "static/media/logo.svg": "/github.io/react_image_slider_18birth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/github.io/react_image_slider_18birth/index.html",
-    "main.f855e6bc.css.map": "/github.io/react_image_slider_18birth/static/css/main.f855e6bc.css.map",
+    "main.095971de.css.map": "/github.io/react_image_slider_18birth/static/css/main.095971de.css.map",
     "main.8ddae23e.js.map": "/github.io/react_image_slider_18birth/static/js/main.8ddae23e.js.map",
     "453.c7f965db.chunk.js.map": "/github.io/react_image_slider_18birth/static/js/453.c7f965db.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.095971de.css",
     "static/js/main.8ddae23e.js"
   ]
 }
